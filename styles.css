@@ -1,0 +1,19 @@
+body{
+  background-color:rgb(24, 23, 23)
+}
+.intro{
+  color:white;
+  text-align: center;
+  font-size: 25px;
+margin-top: 180px;
+}
+.name{
+  color: red;
+text-align: center;
+font-size: 100px;
+margin-top: 15px;
+}
+.room{
+  color:red;
+ 
+}
