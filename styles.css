@@ -25,4 +25,18 @@ margin-top: 15px;
   text-align: center;
 }
 
+.table{
+color:white;
+margin-top: 40px;
+font-size: 17px;
+margin-left: 350px;
+}
 
+.coin{
+  text-decoration: underline;
+}
+
+.col-4{
+  color: white;
+  margin-left: 300px;
+}
