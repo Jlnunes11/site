@@ -29,14 +29,23 @@ margin-top: 15px;
 color:white;
 margin-top: 40px;
 font-size: 17px;
-margin-left: 350px;
+margin-left: 330px;
+text-decoration: underline;
 }
 
-.coin{
-  text-decoration: underline;
-}
 
-.col-4{
-  color: white;
-  margin-left: 300px;
+.caixa {
+cor de fundo: red;
+borda: 1px #ccc sólido;
+preenchimento: 10px;
+largura: 300px;
+altura: 100px;
+alinhamento de texto: centro;
 }
+.caixa p {
+tamanho da fonte: 18px;
+
+
+
+
+
