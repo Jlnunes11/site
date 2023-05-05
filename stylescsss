@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(250, 250, 250);
+}
+
+.mousie{
+  color: black;
+  font-size: 30px;
+  margin-top: 70px;
+  text-align: center;
+}
+.cheese{
+  color: black;
+  font-size: 30px;
+  margin-top: 31px;
+text-align: center;
+}
+
+.mirror{
+  font-size: 25px;
+}
+
