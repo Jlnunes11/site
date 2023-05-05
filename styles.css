@@ -1,5 +1,5 @@
 body{
-  background-color:rgb(24, 23, 23)
+  background-color:black
 }
 .intro{
   color:white;
@@ -15,6 +15,7 @@ margin-top: 15px;
 }
 .room{
   color:red;
+  text-align: center;
  
 }
 
@@ -25,21 +26,45 @@ margin-top: 15px;
   text-align: center;
 }
 
-.table{
-color:white;
-margin-top: 40px;
-font-size: 17px;
-margin-left: 330px;
-text-decoration: underline;
+
+
+CSS
+.container {
+       height: 100%;
+   }
+
+   div.op1 {
+       width: 38%;
+       display: inline-block;
+       color: aliceblue;
+       font-size: 30px;
+       text-align: center;
+       height: 70px;
+       text-decoration: underline;
+margin-top: 120px;
+margin-left: 75px;
+   }
+
+   div.op2 {
+        width: 40%;
+       display: inline-block;
+       color: aliceblue;
+       font-size: 30px;
+       text-align: center;
+       height: 38px;
+       background-color: rgb(219, 28, 28);
+        
+         }
+
+
+.cleber{
+  color: aliceblue;
+  margin-top: 270px;
+  font-size: 30px;
+  text-align: center;
 }
 
-.caixa{
-background-color: gray;
- border: 0,5px solid;
-  padding: 2px;
-  margin-top: 40px;
-margin-left: 300px;
-}
+
 
 
 
